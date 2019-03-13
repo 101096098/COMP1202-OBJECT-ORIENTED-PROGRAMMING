@@ -1,0 +1,6 @@
+C:\Users\Renata\Documents\Visual Studio 2017\Projects\1202S17As2_Renata_Moura\RenataMoura\bin\Debug\RenataMoura.exe.config
+C:\Users\Renata\Documents\Visual Studio 2017\Projects\1202S17As2_Renata_Moura\RenataMoura\bin\Debug\RenataMoura.exe
+C:\Users\Renata\Documents\Visual Studio 2017\Projects\1202S17As2_Renata_Moura\RenataMoura\bin\Debug\RenataMoura.pdb
+C:\Users\Renata\Documents\Visual Studio 2017\Projects\1202S17As2_Renata_Moura\RenataMoura\obj\Debug\1202S17As2_Renata_Moura.csprojResolveAssemblyReference.cache
+C:\Users\Renata\Documents\Visual Studio 2017\Projects\1202S17As2_Renata_Moura\RenataMoura\obj\Debug\RenataMoura.exe
+C:\Users\Renata\Documents\Visual Studio 2017\Projects\1202S17As2_Renata_Moura\RenataMoura\obj\Debug\RenataMoura.pdb
